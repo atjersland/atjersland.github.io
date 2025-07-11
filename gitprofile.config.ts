@@ -84,16 +84,16 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'BAE Systems Inc. Intelligence and Security',
-      position: ' Programmer Analyst Senior, Lead Developer',
-      from: 'September 2022',
-      to: 'May 2023',
+      company: 'Self-employed',
+      position: 'IT Consultant',
+      from: 'September 2023',
+      to: 'Present',
     },
     {
       company: 'BAE Systems Inc. Intelligence and Security',
-      position: 'Programmer Analyst II, Lead Developer',
+      position: ' Programmer Analyst Senior, Lead Developer',
       from: 'November 2018',
-      to: 'September 2022',
+      to: 'May 2023',
     },
     {
       company: 'Hixbridge Digital',
